@@ -18,7 +18,6 @@ package org.example.ArrayString;
 //Неважно, что вы оставляете за пределами возвращаемого значения k (поэтому они обозначены подчеркиванием).
 public class RemoveElement2 {
     public int removeElement(int[] nums, int val) {
-
         int left = 0;
         for (int i = 0; i < nums.length; i++) {
             if(nums[i]!=val){
