@@ -11,7 +11,7 @@ Top Interview 150
   - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-  - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
   - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
